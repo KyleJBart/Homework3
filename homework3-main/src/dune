@@ -1,0 +1,7 @@
+(executable
+ (name main)
+ (libraries str oUnit))
+
+(executable
+ (name test)
+ (libraries str oUnit))
